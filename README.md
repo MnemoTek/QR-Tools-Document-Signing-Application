@@ -90,7 +90,22 @@ Screenshots and demo video will be provided separately.
 - Drag and drop signature placement improves user interaction for document signing
 
 ## Source Code Availability
+## Screenshots
 
+### Main Interface
+![Main Interface](Reactapp1.png)
+
+### QR Generator
+![QR Generator](Reactapp2.png)
+
+### OCR Extraction
+![OCR Extraction](Reactapp3.png)
+
+### PDF Signing
+![PDF Signing](Reactapp4.png)
+
+### Advanced PDF Signing
+![Advanced PDF Signing](Reactapp5.png)
 The full source code is available upon request for investors, partners, or employers.
 
 ## Author
