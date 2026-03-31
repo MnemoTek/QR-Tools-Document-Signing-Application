@@ -69,5 +69,31 @@ Install dependencies:
             SignaturePad.jsx
             SignDocument.jsx
             WordToPDF.jsx
-            
+          
+## Deployment
+
+The application can be deployed using platforms such as:
+
+- Netlify
+- Vercel
+- GitHub Pages
+
+## Demo
+
+Screenshots and demo video will be provided separately.
+
+## Notes
+
+- All processing is performed on the client side
+- No backend or server-side storage is required
+- Designed for simplicity and usability for non-technical users
+- Drag and drop signature placement improves user interaction for document signing
+
+## Source Code Availability
+
+The full source code is available upon request for investors, partners, or employers.
+
+## Author
+
+Cristian Nastasa  
 
