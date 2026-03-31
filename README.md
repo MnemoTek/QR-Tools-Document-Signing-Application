@@ -96,4 +96,20 @@ The full source code is available upon request for investors, partners, or emplo
 ## Author
 
 Cristian Nastasa  
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/Reactapp1.png)
+
+### QR Generator
+![QR Generator](screenshots/Reactapp2.png)
+
+### OCR Extraction
+![OCR Extraction](screenshots/Reactapp3.png)
+
+### PDF Signing
+![PDF Signing](screenshots/Reactapp4.png)
+
+### Advanced PDF Signing
+![Advanced PDF Signing](screenshots/Reactapp5.png)
 
