@@ -36,9 +36,38 @@ This project is a web-based platform that provides a collection of tools for wor
             PDFSigner.jsx
             QRGenerator.jsx
             QRScanner.jsx
+            
+## Application Architecture
+
+The application is built using a modular component-based architecture in React. Each feature is implemented as an independent component and integrated into the main application through App.jsx.
+
+The system is designed to remain scalable, allowing additional tools to be added without affecting existing functionality.
+
+## PDF Signing Workflow
+
+1. Upload a PDF document
+2. Generate or capture a signature using the signature pad
+3. Drag and position the signature on the document preview
+4. Select the target page for signature placement
+5. Export and download the signed PDF
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6+)
+- jsPDF
+- pdf-lib
+- react-draggable
+- HTML5 Canvas
+
+## Setup Instructions
+
+Install dependencies:
+
             RealPDFSigner.jsx
             SignaturePad.jsx
             SignDocument.jsx
             WordToPDF.jsx
             
-.
+
