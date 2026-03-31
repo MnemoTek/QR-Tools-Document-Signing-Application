@@ -107,9 +107,14 @@ Cristian Nastasa
 ### OCR Extraction
 ![OCR Extraction](screenshots/Reactapp3.png)
 
+
 ### PDF Signing
 ![PDF Signing](screenshots/Reactapp4.png)
 
 ### Advanced PDF Signing
 ![Advanced PDF Signing](screenshots/Reactapp5.png)
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/NM8m7MZoAoE/0.jpg)](https://youtu.be/NM8m7MZoAoE)
 
