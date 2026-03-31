@@ -18,4 +18,27 @@ This project is a web-based platform that provides a collection of tools for wor
 - Client-side processing without backend dependency
 
 ## Project Structure
+---src
+    |   App.css
+    |   App.jsx
+    |   index.css
+    |   main.jsx
+    |   
+    +---assets
+    |       hero.png
+    |       react.svg
+    |       vite.svg
+    |       
+    \---components
+            AdvancedPDFSigner.jsx
+            ImageToPDF.jsx
+            OCRExtractor.jsx
+            PDFSigner.jsx
+            QRGenerator.jsx
+            QRScanner.jsx
+            RealPDFSigner.jsx
+            SignaturePad.jsx
+            SignDocument.jsx
+            WordToPDF.jsx
+            
 .
